@@ -1,4 +1,5 @@
-//
+//　Edited by Daichi Hotta
+// 
 //  main.cpp
 //  gl3d_hello_world
 //
