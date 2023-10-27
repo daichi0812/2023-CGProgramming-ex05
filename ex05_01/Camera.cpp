@@ -14,9 +14,9 @@ Camera::Camera()
 , m_yVector( Eigen::Vector3d{ 0.0, 1.0, 0.0 } )
 , m_zVector( Eigen::Vector3d{ 0.0, 0.0, 1.0 } )
 , m_DistanceToObject( 1.0 )
-, m_FocalLength( 0.035 * 0.5 )
-, m_ScreenWidth( 0.036 * 0.5 )
-, m_ScreenHeight( 0.024 * 0.5 )
+, m_FocalLength( 0.035 * 0.8 )
+, m_ScreenWidth( 0.036 * 0.8 )
+, m_ScreenHeight( 0.024 * 0.8 )
 {
   
 }
